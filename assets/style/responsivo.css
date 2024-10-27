@@ -1,0 +1,11 @@
+@media(width > 600px){
+
+ .container{
+  max-width: calc(100% - 3rem * 3);
+  display: grid;
+ }
+ 
+ 
+
+
+}
